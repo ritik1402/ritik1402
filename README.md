@@ -26,23 +26,24 @@
 Frontend:  HTML | CSS | JavaScript | React.js | Tailwind | Bootstrap  
 Backend:   Node.js | Express.js | MongoDB | EJS  
 Tools:     Git | GitHub | Vercel | Render | Postman | VS Code  
-
+```````
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ritik1402" target="_blank">
+  <a href="https://github.com/ritik1402">
     <img src="https://img.shields.io/badge/GitHub-ritik1402-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:ritiksaxena1402@gmail.com" target="_blank">
+  <a href="mailto:ritiksaxena1402@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ritik-saxena-7976181a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/ritik-saxena-7976181a6/">
     <img src="https://img.shields.io/badge/LinkedIn-ritik-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://portfolio-project-hhen.onrender.com/home" target="_blank">
+  <a href="https://portfolio-project-hhen.onrender.com/home">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
 
 ---
 
